@@ -4,3 +4,27 @@ h1,
 h2 {
   color: blueviolet;
 }
+
+/* This is a child selector // should be in the first level*/
+
+.box > p {
+  color: firebrick;
+}
+
+/* This is the descendant selector */
+
+.box li {
+  color: blue;
+}
+
+/* chaining selctor // to be more specific */
+
+li.done {
+  color: seagreen;
+}
+
+/* combining combiners */
+
+ul p.done {
+  font-size: 0.5rem;
+}
