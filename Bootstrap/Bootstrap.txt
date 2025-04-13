@@ -3,3 +3,17 @@ First we put the link of the bootstrap in the head section
 then we put what we want from it in our code 
 
 also we can put some flexbox styling for positioning
+
+
+12 Column System 
+
+contianer 
+    row 
+        col columns ( the items that we have )
+
+
+Bootstraps break points 
+
+col-sm-2 // the dimesion ration is 2 columns of the 12  and for the sm is for the responsive  
+col-sm-12 col-md-8 col-lg-4 // this means that for large make it 4/12 but for medium use 8/12 and so on
+
