@@ -1,0 +1,5 @@
+First we put the link of the bootstrap in the head section
+
+then we put what we want from it in our code 
+
+also we can put some flexbox styling for positioning
