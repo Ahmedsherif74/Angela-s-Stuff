@@ -7,7 +7,7 @@ String to all the text or the strings
 Number for all the numbers
 Boolean for True and False 
 
-
+prompt : to pop up a place so that we can put an input for us 
 
 // When creating a variable , Means you create a container with a Name equal to some value 
 Variables :
