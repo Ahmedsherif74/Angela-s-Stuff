@@ -1,3 +1,6 @@
 Star of Js
  let's dig into it 
 
+Js DataTypes : 
+
+
