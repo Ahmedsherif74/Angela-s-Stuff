@@ -3,4 +3,7 @@ Star of Js
 
 Js DataTypes : 
 
+String to all the text or the strings 
+Number for all the numbers
+Boolean for True and False 
 
