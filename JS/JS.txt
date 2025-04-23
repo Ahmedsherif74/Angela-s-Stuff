@@ -7,3 +7,11 @@ String to all the text or the strings
 Number for all the numbers
 Boolean for True and False 
 
+
+
+// When creating a variable , Means you create a container with a Name equal to some value 
+Variables :
+
+Var
+//Code to enter a number of characters , and tell how many character you've written and how many left 
+
