@@ -9,6 +9,12 @@ Boolean for True and False
 
 prompt : to pop up a place so that we can put an input for us 
 
+.Slice function takes input ( number1 , number2) : it means that i want to slice the text from position number1 untill position number2 exclusive 
+
+change the case of the string we use :  toUpperCase()
+
+
+
 // When creating a variable , Means you create a container with a Name equal to some value 
 Variables :
 
