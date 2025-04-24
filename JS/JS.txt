@@ -18,7 +18,7 @@ change the case of the string we use :  variable.toUpperCase()
 
 change the case  lower Case of the string we use :  variable.toLowerCase()
 
-
+.charAt(0) gets the first character.
  
 Variables :
 
