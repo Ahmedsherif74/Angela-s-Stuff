@@ -1,5 +1,5 @@
-Star of Js
- let's dig into it 
+Star of Js   بسم الله 
+let's dig into it 
 
 Js DataTypes : 
 
@@ -7,16 +7,22 @@ String to all the text or the strings
 Number for all the numbers
 Boolean for True and False 
 
+
+FUNCTIONS :
+
 prompt : to pop up a place so that we can put an input for us 
 
 .Slice function takes input ( number1 , number2) : it means that i want to slice the text from position number1 untill position number2 exclusive 
 
-change the case of the string we use :  toUpperCase()
+change the case of the string we use :  variable.toUpperCase()
+
+change the case  lower Case of the string we use :  variable.toLowerCase()
 
 
-
-// When creating a variable , Means you create a container with a Name equal to some value 
+ 
 Variables :
+
+// When creating a variable , Means you create a container with a Name equal to some value
 
 Var
 //Code to enter a number of characters , and tell how many character you've written and how many left 
