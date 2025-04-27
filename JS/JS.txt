@@ -1,7 +1,7 @@
 Star of Js   بسم الله 
 let's dig into it 
 
-Js DataTypes : 
+JS DataTypes : 
 
 String to all the text or the strings 
 Number for all the numbers
@@ -20,10 +20,30 @@ change the case  lower Case of the string we use :  variable.toLowerCase()
 
 .charAt(0) gets the first character.
  
-Variables :
+VARIABLES :
 
 // When creating a variable , Means you create a container with a Name equal to some value
 
 Var
 //Code to enter a number of characters , and tell how many character you've written and how many left 
+
+
+NUMBERS : 
+
+Adittion , Subtraction , Multiplication and division all the same as we used to have + - * /
+
+Moduls % which is the remaning of the division
+
+X++ // is incremting the x by 1 
+x-- // is decrementing the x by 1
+x+=1 ; // increse x by 1 
+x+=2 /; // increase x by 2 // you could also use * or division to use the same rule 
+
+
+
+
+FUNCTIONS :
+
+
+
 
