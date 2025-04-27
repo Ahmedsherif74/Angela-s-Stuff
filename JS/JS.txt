@@ -44,6 +44,16 @@ x+=2 /; // increase x by 2 // you could also use * or division to use the same r
 
 FUNCTIONS :
 
+Structure of the func :
 
+        function NameofFunc (){
+            Body of the func
+        }
+
+
+Calling the Function :
+
+
+        NameofFunc();
 
 
