@@ -57,3 +57,18 @@ Calling the Function :
         NameofFunc();
 
 
+Math.floor () ; // this to round down the number
+
+
+Functions that takes an input : 
+
+
+        getMilk(bottles){
+
+                you van use bottles here 
+        }
+
+
+
+
+
